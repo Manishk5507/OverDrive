@@ -18,7 +18,7 @@ Are you ready to shift into **Overdrive** and redefine what's possible with code
 ---
 
 ### **3. Timeline**  
-⏳ **Duration: 7 Days**  
+⏳ **Duration: 5 Days**  
 
 ---
 
@@ -44,12 +44,24 @@ Projects will be evaluated based on:
 ---
 
 ### **6. Submission Process**  
-📌 **A GitHub repository will be provided**. Participants must:  
-1. Fork the repository.  
-2. Raise a **Pull Request (PR)** with a **proper commit message**.  
-3. Include a **README file** explaining:  
-   - How each **NPM package** is used.  
-   - What **APIs** are used in the project.  
+📌 **A GitHub repository will be provided by the organizers.** Participants must follow these steps:
+
+#### Develop Your Project:
+- Use the given **NPM packages** and **APIs** to build your project in your own GitHub repository.
+- Ensure your project includes a comprehensive **README file** that explains:
+  - How each **NPM package** is utilized.
+  - The details of the **APIs** used in the project.
+
+#### Fork the Official Repository:
+- Fork the official repository provided by the organizers.
+
+#### Add Your Submission File:
+- In the forked repository, create a new file named with your **roll number** (e.g., `LXX20240XX.md`).
+- In this file, include the **link to your project repository**.
+
+#### Create a Pull Request (PR):
+- Submit a **PR** to merge your file into the main repository.
+- Use a **clear and meaningful commit message**.
 
 ---
 
@@ -58,12 +70,12 @@ Projects will be evaluated based on:
 ✅ Participants can use **provided RESTful APIs** or **build their own APIs**.  
 ✅ A **list of 20-25 NPM packages** will be provided, and at least **10 packages from the list** must be used.  
 ✅ Submit **short documentation** explaining:  
-   - The implementation process.  
+   - The implementation process.
    - How each NPM package helped solve a problem.  
 ✅ Additional APIs (other than the provided list) **are allowed**.  
 ✅ NPM packages will be categorized as:  
-   - **Easy (Least Points)**  
-   - **Medium**  
+   - **Easy (Least Points)**
+   - **Medium**
    - **Hard (Most Points)**  
 
 ---
