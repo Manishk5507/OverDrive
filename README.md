@@ -52,7 +52,7 @@ Welcome to **Overdrive**, a high-octane coding challenge where creativity, techn
 ## NPM Packages & API List
 
 Please refer to the following document for the complete list of required NPM packages and APIs:  
-[View NPM Packages & API List]([https://example.com/npm-api-doc](https://docs.google.com/document/d/1LUr7u2QP5UsU0vJuz08b3aTKcvoeNVDyCFBuTYnhCyQ/edit?tab=t.0))
+[View NPM Packages & API List](https://docs.google.com/document/d/1LUr7u2QP5UsU0vJuz08b3aTKcvoeNVDyCFBuTYnhCyQ/edit?tab=t.0)
 
 ---
 
