@@ -1,108 +1,117 @@
-# Overdrive 🚀  
+# Overdrive 🚀 - Where Innovation Meets High-Speed Execution!
 
-## **Where Innovation Meets High-Speed Execution!**  
-
-### **1. POC (Point of Contact)**  
-- **Manish Kumar** – Contact No.: 7055447591  
-- **Hitarth** – Contact No.: 6264658180  
-
-### **2. Brief Description**  
-Welcome to **Overdrive**—a high-octane coding challenge where creativity, technical expertise, and innovation come together!  
-
-In this event, participants will develop **feature-rich applications** by leveraging **RESTful APIs** and **a variety of NPM packages**. The goal is to integrate these tools efficiently to solve complex problems and enhance functionality—whether it's a **dynamic website**, an **intuitive desktop application**, or a **powerful CLI tool**.  
-
-Participants are encouraged to push their creative boundaries, designing solutions that stand out in originality, efficiency, and impact.  
-
-Are you ready to shift into **Overdrive** and redefine what's possible with code?  
+Welcome to **Overdrive**, a high-octane coding challenge where creativity, technical expertise, and innovation come together! In this event, you will build a feature-rich application that integrates RESTful APIs and leverages multiple NPM packages to solve complex problems and enhance functionality.
 
 ---
 
-### **3. Timeline**  
-⏳ **Duration: 5 Days**  
+## Challenge Overview
+
+- **Objective:**  
+  Develop an application (web, desktop, or CLI) that effectively integrates RESTful APIs and npm packages.
+  Ensure the application integrates at least 10 NPM packages and at least 5 APIs from the provided lists.
+
+- **Scope:**  
+  Showcase originality, technical complexity, and an engaging user experience.
+
+- **Participants:**  
+  First-year (Freshman) students only.
+
+- **Timeline:**  
+  5 Days
+  - **Start Date:** 31st March, 10 AM 
+  - **End Date:** 5th April, 10AM
+  
 
 ---
 
-### **4. Rules**  
-- ❌ **No AI-generated code** – AI can be used for debugging/help, but directly copying AI-generated solutions is strictly prohibited.  
-- ⚠️ **Blatant use of LLMs will result in disqualification**.  
-- 🚫 **Plagiarism is not allowed** – All implementations must be original. However, taking inspiration from open-source projects is acceptable.  
-- 📌 **If using an open-source repository for inspiration, mention it in your README**.  
+## Key Contacts
+
+- **Manish Kumar:** 7055447591  
+- **Hitarth:** 6264658180
 
 ---
 
-### **5. Judging Criteria 🏆**  
-Projects will be evaluated based on:  
-✅ **Overall Project Quality**  
-✅ **Best API Usage**  
-✅ **Technical Complexity**  
-✅ **Documentation & Usability**  
-✅ **Uniqueness**  
-✅ **Code Readability**  
-✅ **Use of Best Practices**  
-✅ **Organized File Structure**  
+## Rules & Guidelines
+
+- **No AI-Generated Code:**  
+  You may use AI tools for debugging or assistance, but directly copying AI-generated code is strictly prohibited.
+
+- **Originality:**  
+  All implementations must be original. Plagiarism will lead to disqualification.
+
+- **Open-Source Inspiration:**  
+  If you use any open-source project as inspiration, please cite it in your documentation.
+
+- **Documentation:**  
+  Your project must include comprehensive documentation detailing:
+  - How each NPM package is utilized.
+  - The APIs used in your project and their integration process.
 
 ---
 
-### **6. Submission Process**  
-📌 **A GitHub repository will be provided by the organizers.** Participants must follow these steps:
+## NPM Packages & API List
 
-#### Develop Your Project:
-- Use the given **NPM packages** and **APIs** to build your project in your own GitHub repository.
-- Ensure your project includes a comprehensive **README file** that explains:
-  - How each **NPM package** is utilized.
-  - The details of the **APIs** used in the project.
-
-#### Fork the Official Repository:
-- Fork the official repository provided by the organizers.
-
-#### Add Your Submission File:
-- In the forked repository, create a new file named with your **roll number** (e.g., `LXX20240XX.md`).
-- In this file, include the **link to your project repository**.
-
-#### Create a Pull Request (PR):
-- Submit a **PR** to merge your file into the main repository.
-- Use a **clear and meaningful commit message**.
+Please refer to the following document for the complete list of required NPM packages and APIs:  
+[View NPM Packages & API List]([https://example.com/npm-api-doc](https://docs.google.com/document/d/1LUr7u2QP5UsU0vJuz08b3aTKcvoeNVDyCFBuTYnhCyQ/edit?tab=t.0))
 
 ---
 
-### **7. Instructions**  
-✅ Develop an application that **effectively integrates both APIs and NPM packages**.  
-✅ Participants can use **provided RESTful APIs** or **build their own APIs**.  
-✅ A **list of 20-25 NPM packages** will be provided, and at least **10 packages from the list** must be used.  
-✅ Submit **short documentation** explaining:  
-   - The implementation process.
-   - How each NPM package helped solve a problem.  
-✅ Additional APIs (other than the provided list) **are allowed**.  
-✅ NPM packages will be categorized as:  
-   - **Easy (Least Points)**
-   - **Medium**
-   - **Hard (Most Points)**  
+## Submission Guidelines
+
+1. **Develop Your Project:**  
+   Create your application in your own GitHub repository with well-structured code and proper documentation.
+
+2. **Record an Explanatory Video:**  
+   Create a video explaining how you have used the NPM packages and APIs in your project. The video should:
+   - Walk through the application features.
+   - Explain your implementation process.
+   - Highlight the integration and usage of each package/API.
+
+3. **Fork the Official Repository:**  
+   Fork the repository provided by the organizers.
+
+4. **Add Your Submission File:**  
+   In your forked repository, create a new file named with your roll number (e.g., `LXX20240XX.md`). This file should include:
+   - The link to your project’s GitHub repository.
+   - The link to your explanatory video.
+
+5. **Submit a Pull Request (PR):**  
+   Create a pull request to merge your submission file into the main repository. Use a clear and descriptive commit message.
 
 ---
 
-### **8. Bonus Points 🎯**  
-Participants can earn bonus points by:  
-⭐ **Using underrated NPM packages** (less than **10k weekly downloads**).  
-⭐ **Creating something truly unique** that stands out.  
-⭐ **Developing and using their own NPM package**.  
-⭐ **Building and using their own APIs**.  
+## Bonus Points
+
+You can earn extra points by:
+- Using underrated NPM packages (with fewer than 10k weekly downloads).
+- Developing and integrating your own NPM package.
+- Creating a uniquely innovative solution that stands out from the rest.
 
 ---
 
-### **9. Mode of Event**  
-🌍 **Online**  
+## Evaluation Criteria
+
+Projects will be evaluated on:
+- Overall project quality.
+- Effective usage of APIs.
+- Technical complexity.
+- Documentation and usability.
+- Uniqueness and creativity.
+- Code readability and best practices.
+- Organized file structure.
 
 ---
 
-### **10. Logistics Required**  
-📌 After the final evaluation, a **ranked list of the top 10 projects (1-10) shall suffice**.  
+## Additional Information
+
+- **Submission Integrity:**  
+  Please follow the GitHub workflow precisely—fork the repository, create your submission file, and submit a pull request.
+
+- **Creativity & Innovation:**  
+  Beyond meeting the functional requirements, we encourage you to showcase creative problem-solving and innovative design.
 
 ---
 
-### **11. Participants**  
-👨‍💻 **Freshman (First-Year Students Only)**  
+Are you ready to shift into Overdrive and redefine what's possible with code? Let's build something amazing!
 
----
-
-## **Get Ready to Shift into Overdrive!** 🚀  
-Let’s build something amazing! 💡
+For any queries or further assistance, please reach out to the points of contact listed above.
