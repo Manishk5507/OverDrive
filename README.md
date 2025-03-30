@@ -54,7 +54,31 @@ Welcome to **Overdrive**, a high-octane coding challenge where creativity, techn
 Please refer to the following document for the complete list of required NPM packages and APIs:  
 [View NPM Packages & API List](https://docs.google.com/document/d/1LUr7u2QP5UsU0vJuz08b3aTKcvoeNVDyCFBuTYnhCyQ/edit?tab=t.0)
 
+*Note: NPM Packages Categorized by Difficulty. Please refer to the provided document for the complete list of NPM packages and their respective difficulty levels.*
+
+
 ---
+
+## Points Distribution
+
+#### Packages Points Distribution
+- **Easy Packages:**  
+  Each easy package used will earn you 1 point.
+
+- **Medium Packages:**  
+  Each medium package used will earn you 3 points.
+
+- **Hard Packages:**  
+  Each hard package used will earn you 5 points.
+
+#### APIs Points Distribution
+- **Each API contains 5 points**  
+
+
+*Note: To be eligible for points, the packages and APIs must be used meaningfully within your project. Simply including a package or api without proper implementation will not count towards your score.*
+
+---
+
 
 ## Submission Guidelines
 
@@ -84,7 +108,7 @@ Please refer to the following document for the complete list of required NPM pac
 
 You can earn extra points by:
 - Using underrated NPM packages (with fewer than 10k weekly downloads).
-- Developing and integrating your own NPM package.
+- Developing and integrating your own NPM package or API.
 - Creating a uniquely innovative solution that stands out from the rest.
 
 ---
@@ -94,6 +118,7 @@ You can earn extra points by:
 Projects will be evaluated on:
 - Overall project quality.
 - Effective usage of APIs.
+- Effective usage of packages.
 - Technical complexity.
 - Documentation and usability.
 - Uniqueness and creativity.
