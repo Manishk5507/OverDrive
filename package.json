@@ -1,0 +1,27 @@
+{
+  "name": "overdrive2",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KKTHEGREAT07/Overdrive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KKTHEGREAT07/Overdrive/issues"
+  },
+  "homepage": "https://github.com/KKTHEGREAT07/Overdrive#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
