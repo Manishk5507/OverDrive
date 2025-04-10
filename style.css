@@ -1,0 +1,94 @@
+* {
+    margin:0;
+    padding:0;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #180e1a;
+    color: #240101;
+}
+.container{
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-top: 15rem;
+
+}
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 2.5em;
+}
+.card{
+    margin:5rem;
+    width: 300px;
+    background-color: #848488;
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 1rem;
+    position: relative;
+}
+@property --angle {
+    syntax: '<angle>';
+    inherits: false;
+    initial-value: 0deg;
+}
+.card::after , .card::before{
+    content: '';
+    position: absolute  ;
+   
+    height: 100%;   
+    width: 100%;
+    background-image:conic-gradient(from var(--angle),transparent 3%, #af4261,blue, #f3ec78,red, #af4261,blue);
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+    z-index: -1;
+    padding: 4px   ;
+    border-radius: 10px;
+    animation:3s linear infinite rotate;
+
+}
+@keyframes rotate{
+   from{
+        --angle: 0deg;
+    }
+    to{
+        --angle: 360deg;
+    }
+}
+.card::before{
+    filter: blur(1.5rem);
+    opacity: 0.5;
+}
+
+input {
+  padding: 6px;
+  margin-right: 6px;
+  margin-top: 5px;
+  border-radius: 5px;
+  margin: 5px;
+}
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 2rem;
+}
+pre {
+    margin-top: 10px;
+    background: #f0f0f0;
+    padding: 10px;
+    border-radius: 8px;
+    overflow-x: auto;
+  }
+  #bookresult::after{
+    margin-top: 10px;
+    background: #f0f0f0;
+    padding: 10px;
+    border-radius: 8px;
+    overflow-x: auto;
+    display: none;
+    height: 200px;
+  }
